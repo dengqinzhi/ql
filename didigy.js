@@ -25,7 +25,7 @@ js.............
 13
 https://gitee.com/xiecoll/radish-script/raw/master/ddgy.js
 14
-青龙使用方法：添加环境变量 
+青龙使用方法：添加环境变量  
 15
 多账号用 @ 隔开
 16

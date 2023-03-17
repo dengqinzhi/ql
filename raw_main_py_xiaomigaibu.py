@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf8 -*-
-# python >=3.8
+# python >=3.8 
 '''
 Author: Squaregentleman
 Modifier: Oreo

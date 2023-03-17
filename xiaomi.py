@@ -31,7 +31,7 @@ headers = {
         }
  
 
-# 获取登录 code
+# 获取登录 code 
 def get_code(location):
     code_pattern = re.compile("(?<=access=).*?(?=&)")
     code = code_pattern.findall(location)[0]

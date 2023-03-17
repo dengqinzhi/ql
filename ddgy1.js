@@ -1,6 +1,6 @@
 /*
  作者：https://github.com/lksky8/sign-ql
- 日期：2022-10-8
+ 日期：2022-10-8 
  软件：滴滴果园
  功能：签到，做任务，浇水
  抓包：随便抓一个包，只要token后面的内容就行"token":"xxxxxxxxxxxxxxxxxxxxxxxx"}

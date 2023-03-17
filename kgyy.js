@@ -1,5 +1,5 @@
 /*
-酷狗音乐
+酷狗音乐 
 
 捉包把token, userid和openid填到kgyyCookie，多账户换行隔开
 格式：token=xxxx&userid=12345678&openid=xxxxs

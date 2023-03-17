@@ -32,7 +32,7 @@
 16
  let xmbsArr = [];
 17
- let data = '';
+ let data = ''; 
 18
  let msg = '';
 19

@@ -1,6 +1,6 @@
 ﻿/*
 微信阅读
-阅读入口，复制链接微信打开
+阅读入口，复制链接微信打开 
 https://lh100-1253806495.cos.ap-beijing.myqcloud.com/index.html?carteamflg=100036&extflg=undefined变量名称：woniu
 
 抓包搜索关键词 userid 和passport   passport@userid

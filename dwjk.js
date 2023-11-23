@@ -1,5 +1,5 @@
 /*
-单号版 
+单号版  
 自行更改填写第8、9行的uid和Authorization
 此版本是hb2 入口：https://hb2.hbdtxt.com/#/pages/index/video?huodong_id=1648253549&tid=1353980&store_id=244 先加客服好友，让他拉你进群，进群后在再点进链接，如果能看视频答题了就可以抓包了，一直没拉你进群的，试试改成老头头像，跟客服说自己55岁以上
 hb3渠道的 请自行更改第33、69、120行的url ，将hb2改成hb3
